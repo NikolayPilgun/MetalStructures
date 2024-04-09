@@ -1,5 +1,11 @@
+import GetDataJson from "./components/testTools/GetDataJson";
+
 function App() {
-	return <></>;
+	return (
+		<div>
+			<GetDataJson />
+		</div>
+	);
 }
 
 export default App;
