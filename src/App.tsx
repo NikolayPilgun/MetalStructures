@@ -1,9 +1,9 @@
-import GetDataJson from "./components/testTools/GetDataJson";
+import Header from "./components/header/Header";
 
 function App() {
 	return (
 		<div>
-			<GetDataJson />
+			<Header />
 		</div>
 	);
 }
