@@ -1,5 +1,6 @@
 import Banner from "./components/banner/Banner";
 import Header from "./components/header/Header";
+import Skills from "./components/skills/Skills";
 import Title from "./components/title/Title";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
 			<Header />
 			<Title />
 			<Banner />
+			<Skills />
 		</div>
 	);
 }
