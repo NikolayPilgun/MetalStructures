@@ -31,7 +31,7 @@ export default function Skills() {
 	}, []);
 
 	return (
-		<div className="w-full bg-[#e9f3ff]">
+		<div className="w-full my-7">
 			{
 				// Show download status
 				isLoaded ? (

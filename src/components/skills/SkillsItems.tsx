@@ -1,11 +1,12 @@
 import { IDataSkills } from "./Skills";
+import SkillsItem from "./SkillsItem";
 
 export default function SkillsItems({ item }: { item: IDataSkills[] }) {
-	console.log(item);
-
 	return (
-		<div className="w-full ">
-			<h2>{item[0].subTitle}</h2>
+		<div className="flex justify-around items-center gap-5">
+			{item.map((item, index) => (
+				<SkillsItem key={index} item={item} />
+			))}
 		</div>
 	);
 }
