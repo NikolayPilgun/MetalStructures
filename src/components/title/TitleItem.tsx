@@ -1,8 +1,6 @@
 import { IDataTitle } from "./Title";
 
 export default function TitleItem({ item }: { item: IDataTitle }) {
-	console.log(item);
-
 	return (
 		<div className="w-full px-8 py-2 flex justify-between items-center gap-5">
 			<div>
