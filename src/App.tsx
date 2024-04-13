@@ -1,6 +1,7 @@
+import AboutUs from "./components/aboutUs/AboutUs";
 import Banner from "./components/banner/Banner";
 import Header from "./components/header/Header";
-import Progress from "./components/progresss/Progress";
+import Progress from "./components/progress/Progress";
 import Skills from "./components/skills/Skills";
 import Title from "./components/title/Title";
 
@@ -12,6 +13,7 @@ function App() {
 			<Banner />
 			<Skills />
 			<Progress />
+			<AboutUs />
 		</div>
 	);
 }

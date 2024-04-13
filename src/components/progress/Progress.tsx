@@ -30,7 +30,7 @@ export default function Progress() {
 	}, []);
 
 	return (
-		<div className="w-full my-7">
+		<div className="w-full">
 			{
 				// Show download status
 				isLoaded ? (
