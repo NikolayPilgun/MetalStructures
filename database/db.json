@@ -52,5 +52,22 @@
 			"picture": "skills3.jpeg",
 			"button": "ЗАКАЗАТЬ УСЛУГУ"
 		}
+	],
+	"progressData": [
+		{
+			"title": "12",
+			"subTitle": "стран используют нашу продукцию",
+			"picture": "progress1.png"
+		},
+		{
+			"title": "18",
+			"subTitle": "лет успешной работы",
+			"picture": "progress2.png"
+		},
+		{
+			"title": "500",
+			"subTitle": "постоянных клиентов",
+			"picture": "progress3.png"
+		}
 	]
 }
