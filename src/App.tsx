@@ -1,6 +1,7 @@
 import AboutUs from "./components/aboutUs/AboutUs";
 import Banner from "./components/banner/Banner";
 import Header from "./components/header/Header";
+import OurWorks from "./components/ourWorks/OurWorks";
 import Progress from "./components/progress/Progress";
 import Skills from "./components/skills/Skills";
 import Title from "./components/title/Title";
@@ -14,6 +15,7 @@ function App() {
 			<Skills />
 			<Progress />
 			<AboutUs />
+			<OurWorks />
 		</div>
 	);
 }
