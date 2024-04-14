@@ -7,6 +7,7 @@ import Order from "./components/order/Order";
 import OurClients from "./components/ourClients/OurClients";
 import OurWorks from "./components/ourWorks/OurWorks";
 import Progress from "./components/progress/Progress";
+import Reviews from "./components/reviews/Reviews";
 import Skills from "./components/skills/Skills";
 import Title from "./components/title/Title";
 
@@ -24,6 +25,7 @@ function App() {
 			<Instructions />
 			<Order />
 			<OurClients />
+			<Reviews />
 		</div>
 	);
 }
