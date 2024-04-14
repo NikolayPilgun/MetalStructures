@@ -101,5 +101,31 @@
 				"certificate4.jpeg"
 			]
 		}
+	],
+	"instructionsData": [
+		{
+			"title": "Вы оставляете заявку",
+			"picture": "instructions1.png",
+			"pictureArr": "instructionsArr.png"
+		},
+		{
+			"title": "Заключаем договор",
+			"picture": "instructions2.png",
+			"pictureArr": "instructionsArr.png"
+		},
+		{
+			"title": "Согласование проекта",
+			"picture": "instructions3.png",
+			"pictureArr": "instructionsArr.png"
+		},
+		{
+			"title": "Выполнение работ",
+			"picture": "instructions4.png",
+			"pictureArr": "instructionsArr.png"
+		},
+		{
+			"title": "Сдача работы точно в срок",
+			"picture": "instructions5.png"
+		}
 	]
 }
