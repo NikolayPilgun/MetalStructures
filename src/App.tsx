@@ -28,6 +28,7 @@ function App() {
 			<OurClients />
 			<Reviews />
 			<Footer />
+			<Order />
 		</div>
 	);
 }
