@@ -134,5 +134,17 @@
 			"description": "и получите 20 % скидку. Спешите, акция действительна только в этом месяце.",
 			"button": "ОТПРАВИТЬ ЗАЯВКУ"
 		}
+	],
+	"ourClientsData": [
+		{
+			"title": "Наши клиенты",
+			"pictures": [
+				"ourClients1.jpg",
+				"ourClients2.jpg",
+				"ourClients3.jpg",
+				"ourClients4.jpg",
+				"ourClients5.jpg"
+			]
+		}
 	]
 }
