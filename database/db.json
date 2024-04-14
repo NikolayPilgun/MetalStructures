@@ -90,5 +90,16 @@
 				"ourWorks8.jpeg"
 			]
 		}
+	],
+	"certificatesData": [
+		{
+			"title": "Сертификаты качества",
+			"pictures": [
+				"certificate1.jpeg",
+				"certificate2.jpeg",
+				"certificate3.jpeg",
+				"certificate4.jpeg"
+			]
+		}
 	]
 }
