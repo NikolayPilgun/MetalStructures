@@ -1,8 +1,10 @@
-![Header](https://github.com/NikolayPilgun/MetalStructures/blob/main/public/1MetalStructures.png)
+[![Header](https://github.com/NikolayPilgun/MetalStructures/blob/main/public/1MetalStructures.png)](https://nikolaypilgun.ru/)
 
 # Вид сайта — landing page. Тема — Монтаж металлоконструкций.
 
 ## Данный проект является тренировочным и служит для отработки различных навыков.
+
+Полностью разработан и реализован [NikolayPilgun](https://github.com/NikolayPilgun).
 
 ## Внимание!!! Возможны существенные изменения проекта.
 
@@ -16,7 +18,10 @@
 
 ### Требования
 
-Для установки и запуска проекта, необходим: [NodeJS](https://nodejs.org/) v20+.
+Для установки и запуска проекта, необходим:
+
+- [NodeJS](https://nodejs.org/).
+- [json-server](https://www.npmjs.com/package/json-server)
 
 ### Установка зависимостей.
 
@@ -24,6 +29,14 @@
 
 ```sh
 $ npm i
+```
+
+### Запуск Development сервера.
+
+Чтобы запустить сервер для разработки, выполните команду.
+
+```sh
+npm run dev
 ```
 
 ### Запуск json-server сервера.
@@ -40,10 +53,7 @@ cd database
 npx json-server db.json
 ```
 
-### Запуск Development сервера.
+## Дополнительная информация
 
-Чтобы запустить сервер для разработки, выполните команду.
-
-```sh
-npm run dev
-```
+Выбор технологии и инструментов для реализации данного проекта может быть не самым оптимальным.
+Данный выбор служит для отработки навыков, используемых технологий и инструментов.
