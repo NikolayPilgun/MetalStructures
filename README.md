@@ -1,6 +1,6 @@
 [![Header](https://github.com/NikolayPilgun/MetalStructures/blob/main/public/1MetalStructures.png)](https://nikolaypilgun.ru/)
 
-# Вид сайта — landing page. Тема — Монтаж металлоконструкций.
+# Тип сайта — Сайт-визитка. Тема — Монтаж металлоконструкций.
 
 ## Данный проект является тренировочным и служит для отработки различных навыков.
 
